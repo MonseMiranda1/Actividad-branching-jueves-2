@@ -86,8 +86,6 @@ Los commits permiten:
 
 ---
 
-### 📝 Versión corta
-Un commit es un registro de cambios en el proyecto que permite guardar el progreso, entender la historia del trabajo y colaborar de manera ordenada.
 
 ## 1. ¿Qué es un merge?
 Un **merge** es el proceso de **unir los cambios de una rama con otra**.  
@@ -109,10 +107,6 @@ Un **conflicto** ocurre cuando Git no puede unir automáticamente los cambios, p
 
 ---
 
-### 📝 Versión corta
-- **Merge:** unir cambios de distintas ramas  
-- **Conflicto:** cuando Git no puede unir cambios automáticamente  
-- **Evitarlo:** trabajar ordenadamente, actualizar ramas y comunicarse en equipo  
 
 
 
